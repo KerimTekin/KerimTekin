@@ -1,4 +1,4 @@
- [![MasterHead](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe2wG0Ktos3Ve8YlajY8C-1LJqWcA5TUMu-wjoifFsfHvA9H0F)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGUUdzhcC3Ehw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721999290265?e=1738195200&v=beta&t=BmvXLIJ2nR99fXaF0qZxk0eUXOgNnpp8jbaDafmbyjw)
 <h1 align="center">Hi 👋, I'm Kerim Tekin</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kerim tekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerim tekin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kerim-tekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerim tekin" height="30" width="40" /></a>
 <a href="https://instagram.com/@kerim.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kerim.codes" height="30" width="40" /></a>
 </p>
 
